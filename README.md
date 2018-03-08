@@ -1,2 +1,6 @@
 # hello-world
-store for ideas, resources, or sharing things with others.
+
+Oi oi!
+
+Random text is random
+This is my trashbin ....
